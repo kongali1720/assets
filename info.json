@@ -1,10 +1,11 @@
 {
-  "name": "KongALI COIN",
-  "symbol": "KA-C",
+  "name": "KongaliCoin",
+  "symbol": "KAC",
+  "type": "ERC20",
   "decimals": 18,
-  "description": "KongALI COIN is an ERC-20 token created for the KongALI ecosystem.",
-  "website": "https://kongali1720.github.io",
-  "explorer": "https://etherscan.io/token/0x5587E0E6fAF4B9C6006C0B3A7909eB795715940F",
+  "description": "KongaliCoin (KAC) — The Future of DeFi powered by Kongali1720.",
+  "website": "https://kongali1720.com/kongalicoin/",
+  "explorer": "https://etherscan.io/token/0xe71185E2F039013993F2Bc7Da8e51B63E40B063D",
   "status": "active",
-  "id": "0x5587E0E6fAF4B9C6006C0B3A7909eB795715940F"
+  "id": "0xe71185E2F039013993F2Bc7Da8e51B63E40B063D"
 }
